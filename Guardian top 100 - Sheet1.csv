@@ -1,0 +1,108 @@
+RANK,PLAYER,CLUB,LG,COUNTRY,,COUNTRY,COUNT,AVG,CC,,LEAGUE,COUNT,AVG,CC,,CLUB,COUNT,AVG,CC,,LG,CLUB,COUNT
+1,Harder,Wolfsburg,GER,Denmark,,USA,16,44.4,75,,NWSL,30,49.3,45,,Lyon,14,30.7,26,,AUS,Melbourne City,2
+2,Kerr,Perth Glory,AUS,Australia,,England,11,43.8,114,,FRA,21,45.2,26,,Wolfsburg,10,42.5,93,,,Sydney,1
+2,Kerr,Chicago,NWSL,,,Germany,11,50.5,151,,GER,18,48.9,93,,North Carolina,8,56.9,235,,,Perth Glory,1
+3,Hegerberg,Lyon,FRA,Norway,,France,9,44.3,98,,ENG,16,43.0,92,,Seattle,6,49.7,209,,,Newcastle Jets,1
+4,Bronze,Lyon,FRA,England,,Netherlands,6,33.8,116,,AUS,6,71.7,331,,Arsenal,5,29.0,145,,,Brisbane ,1
+5,Le Sommer,Lyon,FRA,France,,Australia,5,66.8,334,,ESP,5,53.2,266,,Chelsea,5,40.2,201,,AUS Total,,6
+6,Henry,Lyon,FRA,France,,Sweden,5,75.0,375,,SWE,4,73.0,417,,Man City,5,55.2,276,,CHN,Jiangsu,1
+7,Morgan,Orlando,NWSL,USA,,Brazil,4,46.5,311,,CHN,3,69.7,,,PSG,5,69.4,347,,,Dalian Guanjian,1
+8,Renard,Lyon,FRA,France,,Japan,4,66.3,390,,NOR,2,82.5,,,Barcelona,4,54.3,342,,,Changchun,1
+9,Martens,Barcelona,ESP,Netherlands,,Norway,4,35.0,265,,JPN,1,62.0,,,Bayern Munich,4,64.5,383,,CHN Total,,3
+10,Rapinoe,Seattle,NWSL,USA,,Spain,4,66.3,390,,NCAA,1,88.0,,,Chicago,4,50.8,328,,ENG,Man City,5
+11,Marozsan,Lyon,FRA,Germany,,Denmark,3,37.3,,,,,,,,Orlando,4,54.5,343,,,Chelsea,5
+12,Horan,Portland,NWSL,USA,,Switzerland,3,50.0,,,,,,,,Portland,4,29.5,243,,,Arsenal,5
+13,Kirby,Chelsea,ENG,England,,Canada,2,49.5,,,,,,,,Rosengard,3,65.7,,,,Birmingham,1
+14,Marta,Orlando,NWSL,Brazil,,Belgium,1,94.0,,,,,,,,Essen,2,58.0,,,ENG Total,,16
+15,Miedema,Arsenal,ENG,Netherlands,,Chile,1,53.0,,,,,,,,Melbourne City,2,67.5,,,ESP,Barcelona,4
+16,Sinclair,Portland,NWSL,Canada,,China,1,97.0,,,,,,,,Montpellier,2,86.0,,,,Atletico Madrid,1
+17,Bachmann,Chelsea,ENG,Switzerland,,Iceland,1,31.0,,,,,,,,Utah,2,43.0,,,ESP Total,,5
+18,Kumagai,Lyon,FRA,Japan,,Malawi,1,71.0,,,,,,,,Atletico Madrid,1,49.0,,,FRA,Lyon,14
+19,Popp,Wolfsburg,GER,Germany,,New Zealand,1,60.0,,,,,,,,Birmingham,1,66.0,,,,PSG,5
+20,Hansen,Wolfsburg,GER,Norway,,Nigeria,1,86.0,,,,,,,,Brisbane ,1,96.0,,,,Montpellier,2
+21,Dunn,North Carolina,NWSL,USA,,Poland,1,27.0,,,,,,,,Changchun,1,52.0,,,FRA Total,,21
+22,Majri,Lyon,FRA,France,,Portugal,1,75.0,,,,,,,,Dalian Guanjian,1,86.0,,,GER,Wolfsburg,10
+23,Little,Arsenal,ENG,Scotland,,Scotland,1,23.0,,,,,,,,Florida State,1,88.0,,,,Bayern Munich,4
+24,Nobbs,Arsenal,ENG,England,,South Korea,1,41.0,,,,,,,,Frankfurt,1,33.0,,,,Essen,2
+25,Heath,Portland,NWSL,USA,,Venezuela,1,88.0,,,,,,,,Houston,1,45.0,,,,Turbine Potsdam,1
+26,Fischer,Wolfsburg,GER,Sweden,,Wales,1,28.0,,,,,,,,INAC Kobe,1,62.0,,,,Frankfurt,1
+27,Pajor,Wolfsburg,GER,Poland,,,,,,,,,,,,Jiangsu,1,71.0,,,GER Total,,18
+28,Fishlock,Lyon,FRA,Wales,,,,,,,,,,,,Linkoping,1,95.0,,,JPN,INAC Kobe,1
+28,Fishlock,Seattle,NWSL,,,,,,,,,,,,,LSK,1,78.0,,,JPN Total,,1
+29,van de Donk,Arsenal,ENG,Netherlands,,,,,,,,,,,,Newcastle Jets,1,98.0,,,NCAA,Florida State,1
+30,van de Sanden,Lyon,FRA,Netherlands,,,,,,,,,,,,Perth Glory,1,2.0,,,NCAA Total,,1
+31,Gunnarsdottir,Wolfsburg,GER,Iceland,,,,,,,,,,,,Sydney,1,99.0,,,NOR,Valerenga,1
+32,Ertz,Chicago,NWSL,USA,,,,,,,,,,,,Turbine Potsdam,1,48.0,,,,LSK,1
+33,Groenen,Frankfurt,GER,Netherlands,,,,,,,,,,,,Valerenga,1,87.0,,,NOR Total,,2
+34,Nadim,Man City,ENG,Denmark,,,,,,,,,,,,Washington,1,56.0,,,NWSL,North Carolina,8
+35,Sauerbrunn,Utah,NWSL,USA,,,,,,,,,,,,,,,,,,Seattle,6
+36,Taylor,Seattle,NWSL,England,,,,,,,,,,,,,,,,,,Portland,4
+37,Houghton,Man City,ENG,England,,,,,,,,,,,,,,,,,,Orlando,4
+38,Dabritz,Bayern Munich,GER,Germany,,,,,,,,,,,,,,,,,,Chicago,4
+39,Mjelde,Chelsea,ENG,Norway,,,,,,,,,,,,,,,,,,Utah,2
+40,Mittag,Rosengard,SWE,Germany,,,,,,,,,,,,,,,,,,Washington,1
+41,Ji,Chelsea,ENG,South Korea,,,,,,,,,,,,,,,,,,Houston,1
+42,Parris,Man City,ENG,England,,,,,,,,,,,,,,,,,NWSL Total,,30
+43,Magull,Bayern Munich,GER,Germany,,,,,,,,,,,,,,,,,SWE,Rosengard,3
+44,Dallmann,Essen,GER,Germany,,,,,,,,,,,,,,,,,,Linkoping,1
+45,Daly,Houston,NWSL,England,,,,,,,,,,,,,,,,,SWE Total,,4
+46,Lynn Williams,North Carolina,NWSL,USA,,,,,,,,,,,,,,,,,Grand Total,,107
+47,Schult,Wolfsburg,GER,Germany,,,,,,,,,,,,,,,,,,,
+48,Huth,Turbine Potsdam,GER,Germany,,,,,,,,,,,,,,,,,,,
+49,Hermoso,Atletico Madrid,ESP,Spain,,,,,,,,,,,,,,,,,,,
+50,Debinha,North Carolina,NWSL,Brazil,,,,,,,,,,,,,,,,,,,
+51,Press,Utah,NWSL,USA,,,,,,,,,,,,,,,,,,,
+52,Cristiane,Changchun,CHN,Brazil,,,,,,,,,,,,,,,,,,,
+53,Engler,PSG,FRA,Chile,,,,,,,,,,,,,,,,,,,
+54,Walti,Arsenal,ENG,Switzerland,,,,,,,,,,,,,,,,,,,
+55,Duggan,Barcelona,ESP,England,,,,,,,,,,,,,,,,,,,
+56,Pugh,Washington,NWSL,USA,,,,,,,,,,,,,,,,,,,
+57,Bouhaddi,Lyon,FRA,France,,,,,,,,,,,,,,,,,,,
+58,McDonald,North Carolina,NWSL,USA,,,,,,,,,,,,,,,,,,,
+59,Lydia Williams,Melbourne City,AUS,Australia,,,,,,,,,,,,,,,,,,,
+59,Lydia Williams,Seattle,NWSL,,,,,,,,,,,,,,,,,,,,
+60,Erceg,North Carolina,NWSL,New Zealand,,,,,,,,,,,,,,,,,,,
+61,Mewis,North Carolina,NWSL,USA,,,,,,,,,,,,,,,,,,,
+62,Iwabuchi,INAC Kobe,JPN,Japan,,,,,,,,,,,,,,,,,,,
+63,Paredes,PSG,FRA,Spain,,,,,,,,,,,,,,,,,,,
+64,Katoto,PSG,FRA,France,,,,,,,,,,,,,,,,,,,
+65,Franch,Portland,NWSL,USA,,,,,,,,,,,,,,,,,,,
+66,White,Birmingham,ENG,England,,,,,,,,,,,,,,,,,,,
+67,Zerboni,North Carolina,NWSL,USA,,,,,,,,,,,,,,,,,,,
+68,Guijarro,Barcelona,ESP,Spain,,,,,,,,,,,,,,,,,,,
+69,Scott,Man City,ENG,England,,,,,,,,,,,,,,,,,,,
+70,Formiga,PSG,FRA,Brazil,,,,,,,,,,,,,,,,,,,
+71,Chawinga,Jiangsu,CHN,Malawi,,,,,,,,,,,,,,,,,,,
+72,Schuller,Essen,GER,Germany,,,,,,,,,,,,,,,,,,,
+73,Naeher,Chicago,NWSL,USA,,,,,,,,,,,,,,,,,,,
+74,Mbock,Lyon,FRA,France,,,,,,,,,,,,,,,,,,,
+75,Neto,Wolfsburg,GER,Portugal,,,,,,,,,,,,,,,,,,,
+76,Kellond-Knight,Melbourne City,AUS,Australia,,,,,,,,,,,,,,,,,,,
+76,Kellond-Knight,Seattle,NWSL,,,,,,,,,,,,,,,,,,,,
+77,Troelsgaard,Rosengard,SWE,Denmark,,,,,,,,,,,,,,,,,,,
+78,Reiten,LSK,NOR,Norway,,,,,,,,,,,,,,,,,,,
+79,Dickenmann,Wolfsburg,GER,Switzerland,,,,,,,,,,,,,,,,,,,
+80,Seger,Rosengard,SWE,Sweden,,,,,,,,,,,,,,,,,,,
+81,Bacha,Lyon,FRA,France,,,,,,,,,,,,,,,,,,,
+82,Gauvin,Montpellier,FRA,France,,,,,,,,,,,,,,,,,,,
+83,Buchanan,Lyon,FRA,Canada,,,,,,,,,,,,,,,,,,,
+84,Rolfo,Bayern Munich,GER,Sweden,,,,,,,,,,,,,,,,,,,
+85,Putellas,Barcelona,ESP,Spain,,,,,,,,,,,,,,,,,,,
+86,Oshoala,Dalian Guanjian,CHN,Nigeria,,,,,,,,,,,,,,,,,,,
+87,Spitse,Valerenga,NOR,Netherlands,,,,,,,,,,,,,,,,,,,
+88,Castellanos,Florida State,NCAA,Venezuela,,,,,,,,,,,,,,,,,,,
+89,Kawasumi,Seattle,NWSL,Japan,,,,,,,,,,,,,,,,,,,
+90,Blackstenius,Montpellier,FRA,Sweden,,,,,,,,,,,,,,,,,,,
+91,Bright,Chelsea,ENG,England,,,,,,,,,,,,,,,,,,,
+92,Dahlkemper,North Carolina,NWSL,USA,,,,,,,,,,,,,,,,,,,
+93,Behringer,Bayern Munich,GER,Germany,,,,,,,,,,,,,,,,,,,
+94,Wullaert,Man City,ENG,Belgium,,,,,,,,,,,,,,,,,,,
+95,Asllani,Linkoping,SWE,Sweden,,,,,,,,,,,,,,,,,,,
+96,Nagasato,Brisbane ,AUS,Japan,,,,,,,,,,,,,,,,,,,
+96,Nagasato,Chicago,NWSL,,,,,,,,,,,,,,,,,,,,
+97,Wang Shuang,PSG,FRA,China,,,,,,,,,,,,,,,,,,,
+98,van Egmond,Newcastle Jets,AUS,Australia,,,,,,,,,,,,,,,,,,,
+98,van Egmond,Orlando,NWSL,,,,,,,,,,,,,,,,,,,,
+99,Kennedy,Sydney,AUS,Australia,,,,,,,,,,,,,,,,,,,
+99,Kennedy,Orlando,NWSL,,,,,,,,,,,,,,,,,,,,
+100,Goessling,Wolfsburg,GER,Germany,,,,,,,,,,,,,,,,,,,
